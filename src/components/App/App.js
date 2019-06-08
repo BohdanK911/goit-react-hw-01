@@ -11,7 +11,8 @@ const user = {
   name: 'Timothy Grant',
   tag: '@tgrant',
   location: 'Sao Paulo, Brazil',
-  avatar: 'https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940',
+  avatar:
+    'https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940',
   stats: {
     followers: 198,
     views: 3685,
